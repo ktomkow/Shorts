@@ -1,0 +1,7 @@
+{
+  "appId": "ktomkow.shorts",
+  "appName": "Shorts",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
