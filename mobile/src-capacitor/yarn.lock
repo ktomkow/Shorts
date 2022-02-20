@@ -7,6 +7,11 @@
   resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-2.5.0.tgz#143d7b3b0131af221b4a1fca778fc207f3d235a6"
   integrity sha512-W25F9GRuqNAN9D6Sd5Lj21ibGqzd8006Tf3mfai6MJj8DB3a1TMp+hueRwt+WhDJAS+T2pnljuR3FD/jd4u2Rw==
 
+"@capacitor/app@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@capacitor/app/-/app-1.1.0.tgz#33a993a1f78723dad1f75bd949d15ba87de8279f"
+  integrity sha512-CjcMLThYfPBGBexb6Xy98MHA9olduS0OL0X8Ot9z9x5RN/Cx5K5OmlZkGMKOncR2R1h2n/whdO5tmDbjeqS6tw==
+
 "@capacitor/cli@^2.0.0":
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/@capacitor/cli/-/cli-2.5.0.tgz#8a4fee7055757bdb56560952c4893eddf91a9afc"
@@ -30,6 +35,41 @@
   integrity sha512-WUkUnqqLtlEYn6tly8t6VR0ABlSVbXdlD/gBbYxx0P+gEqMF9b46uYb2YqyH+8HBDANzTweEySpLfhiSUvYS7w==
   dependencies:
     tslib "^1.9.0"
+
+"@capacitor/device@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@capacitor/device/-/device-1.1.2.tgz#ac22702ad29971456cb83143ab11e712174e38a0"
+  integrity sha512-1i6yvuSC7Ys7fs4JsUtfwG/00d2FF2TvWpbYs7YbkXhp1vOTL510gwjc5S6FTyhh8M9sAaUU5tKB68XwlSK/GA==
+
+"@capacitor/filesystem@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@capacitor/filesystem/-/filesystem-1.1.0.tgz#0bd6a8bc185b7fd9a1219c3080ab26c2b54ea8b6"
+  integrity sha512-8O3UuvL8HNUEJvZnmn8yUmvgB1evtXfcF0oxIo3YbSlylqywJwS3JTiuhKmsvSxCdpbTy8IaTsutVh3gZgWbKg==
+
+"@capacitor/haptics@^1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@capacitor/haptics/-/haptics-1.1.4.tgz#80d5bc4776740a227a8cb83c85fac4db1316db8e"
+  integrity sha512-+pJIb5X7xAcbrWj6rJaV+cwBlv8aFwB1/Ob6EV4atydThuuVSSsAL4hI4ZYlPNOxM6H5s+ZDLj7Pa2os4eFmtg==
+
+"@capacitor/keyboard@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@capacitor/keyboard/-/keyboard-1.2.2.tgz#7be5d2e4956b77e5eb7235ec020d131c9f87f30a"
+  integrity sha512-dOZSXJTY/tTbRQ+Neiny72BIXN2Hvf/2AgPpMdTErDfaQM7C2MMgtJrm+Mi+YUeT6AnJFmt68nHJGImAL4lzmA==
+
+"@capacitor/local-notifications@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@capacitor/local-notifications/-/local-notifications-1.1.0.tgz#614c3d27fd6fe3f1d89bbed8dbdf4c7eaf234f08"
+  integrity sha512-l6S9rBylxGPq/U+xpJzZcOL4l2s8I2Igq7uDTidR4imIxxX3bLRz9nDSQREWsbQkFx7ALFm/5Y8PJGz2C6qKPw==
+
+"@capacitor/network@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@capacitor/network/-/network-1.0.7.tgz#9494d76f9b6fd516bf5dc3045e3c816930641df7"
+  integrity sha512-Le1pcXlBB6Vsz+9Y5jkwcoFONq93Fm06T+EXfH52khrIH61k5rOYRM1HGR5Q0hu6pDKqA9jM/tU06h2kqsJteA==
+
+"@capacitor/storage@^1.2.4":
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/@capacitor/storage/-/storage-1.2.4.tgz#7aed6c311587857ce6a11d31783904170453ae98"
+  integrity sha512-AqA4KnCQNOmFJ1HuSfmyPf5jz80JY2cX04Uy4j1hpo5ex9bY6W8mUKLsePakTzt4ScDnYuOaXsmusUrpglgPfQ==
 
 ansi-escapes@^3.2.0:
   version "3.2.0"
