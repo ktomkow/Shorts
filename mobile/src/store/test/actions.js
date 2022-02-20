@@ -1,3 +1,3 @@
-export function someAction(context, newNumber) {
+export function update(context, newNumber) {
   context.commit("mutate", newNumber);
 }

@@ -1,11 +1,11 @@
 <template>
-  <q-page class="flex flex-center">
+  <q-page class="flex flex-center column q-gutter-xl">
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-vertical.svg"
       style="width: 200px; height: 200px"
     />
-    <div>{{ i }}</div>
+    <div class="text-h4">{{ i }}</div>
     <q-btn color="primary" label="notify" @click="showNotify" />
   </q-page>
 </template>

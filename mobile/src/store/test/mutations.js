@@ -1,3 +1,3 @@
-export function mutate(state, numbers) {
+export function mutate(state, number) {
   state.i = number;
 }
